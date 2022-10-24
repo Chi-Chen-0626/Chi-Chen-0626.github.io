@@ -1766,14 +1766,14 @@ input, select, textarea {
 			}
 
 		.image.avatar60 {
-				width: 60px;
-				height: 60px;
+				width: 64px;
+				height: 64px;
 				background: #f00;
 		}
 	
 			.image.avatar60 img {
-					width: 60px;
-					height: 60px;
+					width: 64px;
+					height: 64px;
 			}
 		.image.fit {
 			display: block;
